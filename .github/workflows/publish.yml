@@ -29,9 +29,9 @@ jobs:
         echo '' >> ./build/.nojekyll
       env:
         CI: true
-    - name: deploy to pages
-      uses: crazy-max/ghaction-github-pages@v1.2.5
-      with:
-        build_dir: build  
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # - name: deploy to pages
+    #   uses: crazy-max/ghaction-github-pages@v1.2.5
+    #   with:
+    #     build_dir: build  
+    #   env:
+    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
