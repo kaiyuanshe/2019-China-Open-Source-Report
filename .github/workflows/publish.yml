@@ -1,0 +1,36 @@
+name: Node CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: install requirements
+      run: |
+        export TZ='Asia/Shanghai'
+        npm install gitbook-cli -g
+        gitbook install
+    - name: gitbook build
+      run: |
+        gitbook build . ./build
+      env:
+        CI: true
+    - name: deploy to pages
+      uses: crazy-max/ghaction-github-pages@v1.2.5
+      with:
+        build_dir: build  
+        fqdn:  test.com
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
