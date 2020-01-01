@@ -26,3 +26,9 @@
 编辑：朱庆裕 Corrie
 
 社区合作伙伴：CSDN，开源中国，Linux中国，InfoQ，云计算开源产业联盟 (OSCAR)
+
+本报告由开源社首发，欢迎遵照 CC-BY-SA 协议规定转载。
+
+敬请在正文注明并保留原文链接和作者等信息。
+
+https://creativecommons.org/licenses/by-sa/4.0/
