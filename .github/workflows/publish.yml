@@ -25,6 +25,7 @@ jobs:
     - name: gitbook build
       run: |
         gitbook build . ./build
+        rm -rf ./build/.github
         echo '' >> ./build/.nojekyll
       env:
         CI: true
