@@ -326,7 +326,7 @@ Apache Doris（百度捐赠）
 - Apache MesaTEE（百度捐赠）
 > MesaTEE 是通用安全计算的框架。
 > - MesaTEE is a framework for universal secure computing
-- Apache ShardingSphere（华为捐赠）
+- Apache ShardingSphere（京东数科捐赠）
 > ShardingSphere 是一个透明分布式数据库中间件的生态系统，侧重于数据分片、分布式事务和数据库编排。
 > - ShardingSphere is an ecosystem of transparent distributed database middleware, focusing on data sharding, distributed transaction and database orchestration.
 - Apache TubeMQ (腾讯捐赠）
