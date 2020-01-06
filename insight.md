@@ -302,7 +302,7 @@ China – No. 1 in Download ASF Projects, source: ASF 2018 Annual Report
 
 ![](images/4-insight-32.png)
 
-ASF 项目孵化器目前总共有 46个孵化项目。2014-2015年时，仅有 eBay 中国研究院的 3个项目（Eagle, Griffin, Kylin）参与了 ASF 孵化器并皆已毕业成为 TLP，时至 2019年，又新增了百度（孵化 4），阿里（3：TLP 2, 孵化 1），华为（3：TLP 2, 孵化 1），腾讯（孵化 1），请华大学（孵化 1），易观（孵化 1），深圳支流科技（孵化 1），Pivotal（TLP 1），个人/吴晟（TLP 1）等16个项目。可以看得出来雁行效应，由大企业（包含互联网巨头）以及国际企业在华研究机构带头，中小企业，初创企业、高校以及个人纷纷投入的可喜现象。
+ASF 项目孵化器目前总共有 46个孵化项目。2014-2015年时，仅有 eBay 中国研究院的 3个项目（Eagle, Griffin, Kylin）参与了 ASF 孵化器并皆已毕业成为 TLP，时至 2019年，又新增了百度（孵化 4），阿里（3：TLP 2, 孵化 1），华为（3：TLP 2, 孵化 1），腾讯（孵化 1），清华大学（孵化 1），易观（孵化 1），深圳支流科技（孵化 1），Pivotal（TLP 1），个人/吴晟（TLP 1）等16个项目。可以看得出来雁行效应，由大企业（包含互联网巨头）以及国际企业在华研究机构带头，中小企业，初创企业、高校以及个人纷纷投入的可喜现象。
 
 ### 4.2 Apache 孵化项目（Incubating Project：Podling - 10）
 - Apache APISIX（深圳支流科技捐赠)
@@ -320,7 +320,7 @@ Apache Doris（百度捐赠）
 - Apache ECharts（百度捐赠）
 > ECharts 是一个用 JavaScript 编写的图表和数据可视化库。
 > - ECharts is a charting and data visualization library written in JavaScript.
-- Apache IoTDB（请华大学捐赠）
+- Apache IoTDB（清华大学捐赠）
 > IoTDB 是一个数据存储，用于管理大量时间序列数据，例如工业应用中来自 IoT 传感器的时戳数据。
 > - IoTDB is a data store for managing large amounts of time series data such as timestamped data from IoT sensors in industrial applications.
 - Apache MesaTEE（百度捐赠）
